@@ -19,4 +19,4 @@ Bajo "las gafas de Manovich" analizaremos los dos casos elegidos para este ensay
  - **Park4night** 
  - **Autopilot de Tesla**
 
-Vamos a analizar los dos casos de hibridación usando los principios del software para ofrecer una visión sobre cómo estas innovaciones están dando forma a nuestro mundo. 
+Podríamos considerar ambos casos como ejemplos de hibridación al considerar que combinan diferentes tecnologías y conceptos para crear algo nuevo y único.
