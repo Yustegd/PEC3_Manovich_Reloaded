@@ -3,8 +3,6 @@
 
 ![userlmn_e329af32c1bd81584087427242d09d1fcopia](https://github.com/Yustegd/PEC3_Manovich_Reloaded/assets/169986409/051d9273-ad47-4184-a133-8a8e7ed0abe1)
 
-
-
 ## Planteamiento
 
 Hoy en día la hibridación entre diferentes tecnologías es una tendencia que se ha convertido en una práctica dominante que impulsa la innovación y el progreso.
@@ -17,6 +15,13 @@ En esta tercera práctica de la la asignatura "Cultura Digital" buscamos dos eje
 Bajo "las gafas de Manovich" analizaremos los dos casos elegidos para este ensayo:
 
  - **Park4night** 
- - **Autopilot de Tesla**
+ - **Reactable**
 
-Podríamos considerar ambos casos como ejemplos de hibridación al considerar que combinan diferentes tecnologías y conceptos para crear algo nuevo y único.
+Podríamos considerar ambos casos como ejemplos de hibridación al considerar que combinan diferentes tecnologías y conceptos para crear algo nuevo.
+
+## Park4nigth
+
+La tecnología de nuestros días ha cambiado completamente la manera en que viajamos y exploramos nuevos lugares. Una aplicación colaborativa en la que los usuarios de autocaravanas y furgonetas Campers pueden compartir y descubrir diferentes lugares para pernoctar en sus vehículos es Park4Night, que ha experimentado una hibridación al combinar diferentes funciones digitales. Vamos a explorar la aplicación Park4Night a través del concepto de hibridación que nos presenta Lev Manovich en su libro "El software toma el mando".
+
+
+
