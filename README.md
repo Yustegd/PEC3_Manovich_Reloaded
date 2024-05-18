@@ -29,8 +29,8 @@ La tecnología de nuestros días ha cambiado la manera en que viajamos y explora
 ![Sin título](https://github.com/Yustegd/PEC3_Manovich_Reloaded/assets/169986409/3f4be4c7-be26-4433-8992-207983af08a6)
 
 > Park4Night es una aplicación diseñada para personas que viajan en autocaravanas, vehículos camper o campistas. Permite a los usuarios encontrar, compartir o modificar lugares ya añadidos a la aplicación donde pueden estacionar y pasar la noche, incluyendo áreas de estacionamiento, campings, y sitios dónde estacionar en plena naturaleza. La app da detalles sobre cada ubicación, como servicios disponibles, opiniones de otros usuarios, precios o fotos; también es posible seleccionar un lugar, y crear la ruta desde tu ubicación usando el GPS del teléfono o de la tablet.
->
-> ## Hibridación según Manovich
+
+## Hibridación según Manovich
 
 Según Manovich la hibridación es el proceso mediante el cual diferentes medios y tecnologías se combinan para crear nuevas formas. Este concepto se refiere a la integración y mezcla de elementos de distintas áreas, como la combinación de medios visuales, textuales, sonoros y digitales, para formar nuevos productos. En el caso de Park4night esta hibridación se hace manifiesta en la combinación de funciones, como  la búsqueda de ubicaciones, los filtros de búsqueda, las reseñas y comentarios, la capacidad para subir fotos a la plataforma, los mapas interactivos, la navegación GPS, las actualizaciones en tiempo real, la descripción de servicios disponibles en las zonas de pernocta, las funciones de comunidad, la planificación de viajes, las alertas y notificaciones, la integración con otras aplicaciones como puedan ser Google Maps o Waze, la organización de perfil de usuario para ver las ubicaciones guardadas o los sistemas de calificación de los lugares.
 
