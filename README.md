@@ -19,9 +19,12 @@ Bajo "las gafas de Manovich" analizaremos los dos casos elegidos para este ensay
 
 Podríamos considerar ambos casos como ejemplos de hibridación al considerar que combinan diferentes tecnologías y conceptos para crear algo nuevo.
 
-## Park4nigth
+## Re-descubriendo la hibridacion: Park4nigth
 
-La tecnología de nuestros días ha cambiado completamente la manera en que viajamos y exploramos nuevos lugares. Una aplicación colaborativa en la que los usuarios de autocaravanas y furgonetas Campers pueden compartir y descubrir diferentes lugares para pernoctar en sus vehículos es Park4Night, que ha experimentado una hibridación al combinar diferentes funciones digitales. Vamos a explorar la aplicación Park4Night a través del concepto de hibridación que nos presenta Lev Manovich en su libro "El software toma el mando".
+[Park4night](https://park4night.com/es)
+
+La tecnología de nuestros días ha cambiado la manera en que viajamos y exploramos nuevos lugares. Una aplicación colaborativa en la que los usuarios de autocaravanas y furgonetas Campers pueden compartir y descubrir diferentes lugares para pernoctar en sus vehículos es Park4Night, que presenta una hibridación al combinar diferentes funciones digitales. Vamos a explorar la aplicación Park4Night a través del concepto de hibridación que nos presenta Lev Manovich en su libro "El software toma el mando".
+
 
 ![Sin título](https://github.com/Yustegd/PEC3_Manovich_Reloaded/assets/169986409/3f4be4c7-be26-4433-8992-207983af08a6)
 
