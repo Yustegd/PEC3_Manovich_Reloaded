@@ -7,8 +7,7 @@
 
 ## Planteamiento
 
-*Hoy en día la hibridación entre diferentes tecnologías es una tendencia que se ha convertido en una práctica dominante que impulsa la innovación y el progreso*.
-
+Hoy en día la hibridación entre diferentes tecnologías es una tendencia que se ha convertido en una práctica dominante que impulsa la innovación y el progreso.
 En esta tercera práctica de la la asignatura "Cultura Digital" buscamos dos ejemplos actuales de casos de hibridación y su análisis en base a "El software toma el mando", de Lev Manovich.
 
 > Según **Lev Manovich**, la **Hibridación** es la combinación de dos o más medios de diferentes tipos; la creación resultado de esta combinación tiene distintas formas y siempre se pueden identificar los medios que la constituyen. Una forma de transformar creativamente elementos preexistentes es a través de la hibridación. 
