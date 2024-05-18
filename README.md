@@ -34,28 +34,28 @@ La tecnología de nuestros días ha cambiado la manera en que viajamos y explora
 
 Según Manovich la hibridación es el proceso mediante el cual diferentes medios y tecnologías se combinan para crear nuevas formas. Este concepto se refiere a la integración y mezcla de elementos de distintas áreas, como la combinación de medios visuales, textuales, sonoros y digitales, para formar nuevos productos. En el caso de Park4night esta hibridación se hace manifiesta en la combinación de funciones, como la búsqueda de ubicaciones, los filtros de búsqueda, las reseñas y comentarios, la capacidad para subir fotos a la plataforma, los mapas interactivos, la navegación GPS, las actualizaciones en tiempo real, la descripción de servicios disponibles en las zonas de pernocta, las funciones de comunidad, la planificación de viajes, las alertas y notificaciones, la integración con otras aplicaciones como puedan ser Google Maps o Waze, la organización de perfil de usuario para ver las ubicaciones guardadas o los sistemas de calificación de los lugares.
 
-#### **Park4night: Historia y Evolución de sus Versiones**
+ - #### Park4night: Historia y Evolución de sus Versiones
 Park4night nació como una solución para satisfacer necesidad de los viajeros en vehículos vivienda para encontrar lugares seguros para estacionar y pernoctar. La aplicación comenzó como un proyecto relativamente simple, con una base de datos de ubicaciones básica sacada de las aportaciones de usuarios en diversas páginas webs, y de las aportadas en aplicaciones y consolidadas como Google Maps. Las primeras versiones se centraban en la función básica de ayudar a los viajeros a encontrar lugares para estacionar, incluyendo áreas de descanso, campings y estacionamientos recomendados por otros usuarios, aunque con las mejoras en la plataforma se fueron incorporando otras funciones como la navegación GPS, la búsqueda por cercanía, por ubicación, los comentarios y valoraciones o las fotografías. En versiones mas posteriores se fueron mejorando las búsquedas con la inclusión de filtros mejorados, el modo offline, o las alertas y notificaciones.
 
-#### Tecnologías de Navegación y Mapas
+ - #### Tecnologías de Navegación y Mapas
 La hibridación de medios en Park4night se hace patente en la  integración avanzada de tecnologías de navegación GPS para guiar a los destinos. Los mapas interactivos disponibles en la aplicación ofrecen múltiples opciones de visualización. 
 
-#### Comunidad y Colaboración
+ - #### Comunidad y Colaboración
 La base de datos colaborativa es el punto fuerte de Park4night, aquí podemos hablar claramente de una hibridación social ya que los datos son aportados y actualizados por la comunidad de usuarios. Esto incluye información sobre ubicaciones de estacionamiento, campings o áreas de descanso. 
 
-#### Multimedia y Visualización
+ - #### Multimedia y Visualización
 También podemos hablar de hibridación de medios en cuanto a la capacidad de subir y ver fotografías para complementar los comentarios de los lugares aportados a la comunidad. Los usuarios pueden cargar fotos de las ubicaciones, verlas o marcarlas como inapropiadas o engañosas.
 
-#### Búsqueda y Filtros
+ - #### Búsqueda y Filtros
 Otra hibridación de medios son los filtros de búsqueda detallados que permiten a los usuarios encontrar ubicaciones específicas con las instalaciones y servicios que necesitan, como agua, electricidad, servicios o sitios que admiten mascotas. 
 
-#### Funcionalidades Premium y Offline
+ - #### Funcionalidades Premium y Offline
 Como hibridación funcional es el sistema de pago para obtener la versión premium, que ofrece acceso a características exclusivas y contenido adicional. 
 Además, el modo offline permite a los usuarios descargar mapas para su uso sin conexión a internet o lugares en los que el Roaming no es una opción factible.
 
-#### Integración y Compartición con otras APPs
+ - #### Integración y Compartición con otras APPs
 La hibridación social se hace más significativa en la integración de la app con con redes sociales, permitiendo a los usuarios compartir ubicaciones, comentarlas o valorarlas. Además, como hibridación de medios, 	Park4night es compatible con otras aplicaciones como Google Maps o Waze.
 
-#### Gamificación
+ - #### Gamificación
 La aplicación incorpora elementos de gamificación, como recompensas en forma de valoraciones positivas para incentivar la participación por parte de los usuarios.
 
