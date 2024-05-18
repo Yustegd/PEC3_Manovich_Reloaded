@@ -1,7 +1,8 @@
 # PEC3: Visionando el futuro con las gafas de Manovich
 *Autor: David Yuste Gallardo - Fecha: 16/05/2024*
 
-![Uploading userlmn_e329af32c1bd81584087427242d09d1fcopia.png…]()
+![userlmn_e329af32c1bd81584087427242d09d1fcopia](https://github.com/Yustegd/PEC3_Manovich_Reloaded/assets/169986409/051d9273-ad47-4184-a133-8a8e7ed0abe1)
+
 
 
 ## Planteamiento
