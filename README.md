@@ -1,6 +1,7 @@
 # PEC3: Visionando el futuro con las gafas de Manovich
 *Autor: David Yuste Gallardo - Fecha: 16/05/2024*
 
+![Uploading userlmn_e329af32c1bd81584087427242d09d1fcopia.png…]()
 
 
 ## Planteamiento
