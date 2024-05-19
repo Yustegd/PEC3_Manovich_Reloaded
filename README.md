@@ -82,4 +82,7 @@ La hibridación de medios se da en la combinación de la manipulación de objeto
 Reactable hibrida lo tangible con lo digital, permitiendo manipular elementos digitales a través de interacciones físicas. 
 También hibrida tecnológicamente la visualización gráfica con la creación musical, con tecnología de seguimiento de objetos, proyección en tiempo real y síntesis sonora modular. 
 
+#### *Comunidad y Colaboración*
+La hibridación se muestra en su capacidad para permitir que múltiples usuarios interactúen simultáneamente creando temas de manera conjunta en tiempo real. Reactable tiene una comunidad global de usuarios y desarrolladores compartiendo sus creaciones, además de permitir la colaboración a distancia por parte de artistas de diferentes partes del mundo. 
+
 
