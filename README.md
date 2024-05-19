@@ -59,6 +59,13 @@ La hibridación social se hace más significativa en la integración de la app c
 #### *Gamificación*
 La aplicación incorpora elementos de gamificación, como recompensas en forma de valoraciones positivas para incentivar la participación por parte de los usuarios.
 
+### Reflexión personal
+Park4night es una aplicación que he descubierto hace relativamente poco, aunque me habían hablado de ella en numerosas ocasiones nunca la había utilizado, y ha sido en ese momento en que se ha convertido en algo completamente imprescindible para cada salida. La posibilidad buscar lugares para parar en base a determinados criterios o buscar lugares próximos a alguna zona, con la posibilidad de guiarte como un programa GPS es algo que no puedes encontrar en aplicaciones como Google Maps o Waze. Calificar los lugares propuestos cuando los has visitado si lo puedes hacer en Google Maps, pero esos lugares no aparecen ahí.
+
+### Conclusión
+Park4night es un claro ejemplo de hibridación tecnológica, mezclando geolocalización, mapas personalizados en base a determinados criterios de búsqueda, redes sociales o valoración de lugares con la posibilidad de incorporar en ellos fotos o comentarios.
+Park4night demuestra cómo la hibridación en tecnología puede mejorar determinadas aficiones de las personas.
+
 
 ## Re-descubriendo la hibridacion: Reactable
 
@@ -85,4 +92,11 @@ También hibrida tecnológicamente la visualización gráfica con la creación m
 #### *Comunidad y Colaboración*
 La hibridación se muestra en su capacidad para permitir que múltiples usuarios interactúen simultáneamente creando temas de manera conjunta en tiempo real. Reactable tiene una comunidad global de usuarios y desarrolladores compartiendo sus creaciones, además de permitir la colaboración a distancia por parte de artistas de diferentes partes del mundo. 
 
+#### *Multimedia y visualización*
+La hibridación en términos de multimedia y visualización en Reactable es fácilmente apreciable en su capacidad para combinar la manipulación de objetos sobre la mesa, que producen una serie de ritmos con a su vez interacciones gráficas en la mesa que representan las interacciones y conexiones entre los componentes del sonido. Con ello (al mas puro estilo de las visualizaciones de Windows Media Player), ayuda a una comprensión de la música creada. 
 
+#### *Arte*
+En conciertos, Reactable mezcla la performance musical con tecnología interactiva, creando una nueva forma de arte híbrido. Ha sido utilizada en actuaciones en vivo por varios artistas o en programas de televisión (como por ejemplo David Guetta en "El Hormiguero") hibridando las artes escénicas y el espectáculo con la tecnología. 
+
+### Reflexión personal
+Personalmente no conocía la Reactable, pero me ha parecido algo bastante interesante, mezclar en una mesa audio, video, música y colaboraciones con otras personas de otros puntos del planeta es algo bastante novedoso. Tras haber visto varios vídeos de su funcionamiento y algunos artistas como David Guetta usarla, me ha parecido algo bastante ingenioso.
