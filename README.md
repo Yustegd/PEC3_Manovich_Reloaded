@@ -67,3 +67,17 @@ Reactable, que ha sido utilizada por artistas como Björk, Coldplay o Carles Ló
 
 ![reactable_live_mhd_sonard_2015](https://github.com/Yustegd/PEC3_Manovich_Reloaded/assets/169986409/419a4432-0bfa-4805-8458-f1b126ec910d)
 
+> **Reactable** es un instrumento musical electrónico colaborativo, dotado de una interfaz tangible basada en una mesa luminosa dónde múltiples usuarios comparten el control del instrumento moviendo y rotando objetos físicos por su superficie. Manipulando dichos objetos, que representan los componentes clásicos de un sintetizador modular, los usuarios pueden crear diferentes tipologías sonoras mediante generadores, filtros y moduladores, en una clase de sintetizador modular tangible.
+
+### Hibridación según Manovich
+Reactable es un ejemplo de hibridación al combinar la manipulación de objetos físicos con una interfaz digital, hibridando lo físico y lo digital. Fusiona además la visualización con la síntesis sonora consiguiendo una mezcla entre música y gráficos. Usa conceptos de síntesis modular y tecnología de seguimiento de objetos e introduciendo la colaboración entre varias personas. 
+
+### Reactable: Historia y Evolución de sus Versiones
+
+Fue desarrollado por el Grupo de Tecnología Musical de la Universidad Pompeu Fabra de Barcelona, por un equipo de investigación integrado por Sergi Jordà, Marcos Alonso, Günter Geiger y Martin Kaltenbrunner por el año 2007.
+
+Desde su creación se ha ido adecuando a diferentes tipos de usuarios con adaptaciones de la ***Reactable original***, como por ejemplo ***Reactable live!*** que es una versión para conciertos, ***Reactable móvil***, lanzada en 2010 con el objetivo de llegar a mas usuarios a través de los dispositivos móviles o ***Reactable Experience***, que es la versión para espacios públicos o centros como museos, centros de ciencia, galerías de arte, escuelas o universidades, esta versión es más colaborativa, intuitiva y didáctica.
+
+### Tecnología usada
+
+
