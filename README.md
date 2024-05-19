@@ -66,7 +66,7 @@ Park4night es una aplicación que he descubierto hace relativamente poco, aunque
 Park4night es un claro ejemplo de hibridación tecnológica, mezclando geolocalización, mapas personalizados en base a determinados criterios de búsqueda, redes sociales o valoración de lugares con la posibilidad de incorporar en ellos fotos o comentarios.
 Park4night demuestra cómo la hibridación en tecnología puede mejorar determinadas aficiones de las personas.
 
-
+##
 ## Re-descubriendo la hibridacion: Reactable
 
 Nuevamente la tecnología vuelve a cambiar el concepto que tenemos de hacer las cosas, en este caso la de hacer música. Reactable es un instrumento musical digital interactivo desarrollado por el Grupo de Tecnología Musical de la Universidad Pompeu Fabra. Utiliza una superficie de mesa redonda donde los usuarios colocan y manipulan objetos físicos (pucks) que representan diferentes componentes de un sintetizador modular. Estos pucks pueden ser movidos y configurados para modificar parámetros musicales y crear sonidos mientras un proyector visualiza gráficos en tiempo real sobre la mesa, mostrando las conexiones y el flujo de señal de audio.
