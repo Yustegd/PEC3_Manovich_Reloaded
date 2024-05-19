@@ -100,3 +100,8 @@ En conciertos, Reactable mezcla la performance musical con tecnología interacti
 
 ### Reflexión personal
 Personalmente no conocía la Reactable, pero me ha parecido algo bastante interesante, mezclar en una mesa audio, video, música y colaboraciones con otras personas de otros puntos del planeta es algo bastante novedoso. Tras haber visto varios vídeos de su funcionamiento y algunos artistas como David Guetta usarla, me ha parecido algo bastante ingenioso.
+
+### Conclusión:
+
+Reactable fusiona lo físico con lo digital, el audio con el vídeo, y todo ello con la posibilidad de hacerlo en un entorno colaborativo, tanto en un mismo sitio como con personas que se encuentren en otro punto del globo,  en un claro ejemplo de hibridación.
+Reactable demuestra como la hibridación puede transformar la creación musical y mejorarla significativamente.
