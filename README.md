@@ -69,6 +69,8 @@ Park4night demuestra cómo la hibridación en tecnología puede mejorar determin
 ##
 ## Re-descubriendo la hibridacion: Reactable
 
+[Reactable](https://reactable.com/)
+
 Nuevamente la tecnología vuelve a cambiar el concepto que tenemos de hacer las cosas, en este caso la de hacer música. Reactable es un instrumento musical digital interactivo desarrollado por el Grupo de Tecnología Musical de la Universidad Pompeu Fabra. Utiliza una superficie de mesa redonda donde los usuarios colocan y manipulan objetos físicos (pucks) que representan diferentes componentes de un sintetizador modular. Estos pucks pueden ser movidos y configurados para modificar parámetros musicales y crear sonidos mientras un proyector visualiza gráficos en tiempo real sobre la mesa, mostrando las conexiones y el flujo de señal de audio.
 Reactable, que ha sido utilizada por artistas como Björk, Coldplay o Carles López, es un ejemplo claro de hibridación, combinando objetos físicos con una interfaz digital, interacción tangible, tecnología musical digital, visualización en tiempo real y colaboración social.
 
