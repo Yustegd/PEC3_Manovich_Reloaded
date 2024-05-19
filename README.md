@@ -105,3 +105,23 @@ Personalmente no conocía la Reactable, pero me ha parecido algo bastante intere
 
 Reactable fusiona lo físico con lo digital, el audio con el vídeo, y todo ello con la posibilidad de hacerlo en un entorno colaborativo, tanto en un mismo sitio como con personas que se encuentren en otro punto del globo,  en un claro ejemplo de hibridación.
 Reactable demuestra como la hibridación puede transformar la creación musical y mejorarla significativamente.
+
+
+##
+
+## Webgrafía
+
+-   Manovich, Lev. (2013) -  ***El Software toma el mando***. Barcelona: Editorial UOC.
+
+-  Muñoz-Justicia, Juan (2014): *Conocimiento Abierto y Tecnología* - https://juan.psicologiasocial.eu/conocimiento-y-tecnologia
+
+-  Alberich-Pascual, Jordi. (2018): *Elementos de la creatividad multimedia: apropiación, remediación, hibridación*. Mosaic, 2018. - https://mosaic.uoc.edu/2018/01/18/elementos-de-la-creatividad-multimedia-apropiacion-remediacion-hibridacion/
+
+-  Park4night (2024). *Park4night* - https://park4night.com/es
+
+-   Wikipedia (2023).  *Reactable* -  [https://es.wikipedia.org/wiki/Reactable#:~:text=El%20Reactable%20es%20un%20instrumento,modulares%20de%20los%20a%C3%B1os%20sesenta.](https://es.wikipedia.org/wiki/Reactable#:~:text=El%20Reactable%20es%20un%20instrumento,modulares%20de%20los%20a%C3%B1os%20sesenta.)
+
+- CràzyGiirL J. [Jenni CràzyGiirL] (9/9/2011) https://www.youtube.com/watch?v=pmwbkieRvhU (Vídeo en línea) - Youtube
+
+- Natalia y Fabi (Sin fecha) PARK4NIGHT – La app imprescindible si viajas en camper [Entrada de Blog] *Vantrackblog* https://vantrackblog.com/park4night/
+
