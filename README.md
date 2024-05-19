@@ -72,12 +72,12 @@ Reactable, que ha sido utilizada por artistas como Björk, Coldplay o Carles Ló
 ### Hibridación según Manovich
 Reactable es un ejemplo de hibridación al combinar la manipulación de objetos físicos con una interfaz digital, hibridando lo físico y lo digital. Fusiona además la visualización con la síntesis sonora consiguiendo una mezcla entre música y gráficos. Usa conceptos de síntesis modular y tecnología de seguimiento de objetos e introduciendo la colaboración entre varias personas. 
 
-### Reactable: Historia y Evolución de sus Versiones
+#### *Reactable: Historia y Evolución de sus Versiones*
 
 Fue desarrollado por el Grupo de Tecnología Musical de la Universidad Pompeu Fabra de Barcelona, por un equipo de investigación integrado por Sergi Jordà, Marcos Alonso, Günter Geiger y Martin Kaltenbrunner por el año 2007.
 
 Desde su creación se ha ido adecuando a diferentes tipos de usuarios con adaptaciones de la ***Reactable original***, como por ejemplo ***Reactable live!*** que es una versión para conciertos, ***Reactable móvil***, lanzada en 2010 con el objetivo de llegar a mas usuarios a través de los dispositivos móviles o ***Reactable Experience***, que es la versión para espacios públicos o centros como museos, centros de ciencia, galerías de arte, escuelas o universidades, esta versión es más colaborativa, intuitiva y didáctica.
 
-### Tecnología usada
+#### *Tecnología usada*
 
 
